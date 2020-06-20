@@ -1,0 +1,1 @@
+alert('Hi Im using JavaScript! Served from static files in my ktor application: .... :-)');

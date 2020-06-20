@@ -1,0 +1,1 @@
+curl -H "Accept: application/xml" "localhost:8080/spaceship"

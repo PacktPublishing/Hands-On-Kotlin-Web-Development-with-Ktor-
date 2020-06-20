@@ -1,1 +1,1 @@
-# Hands-On-Kotlin-Web-Development-with-Ktor-
+# packt-ktor

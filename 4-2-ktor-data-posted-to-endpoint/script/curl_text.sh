@@ -1,0 +1,1 @@
+curl -v -d "Test 123 data to post" "localhost:8080/text"

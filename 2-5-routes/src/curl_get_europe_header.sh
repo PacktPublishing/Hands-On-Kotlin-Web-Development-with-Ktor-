@@ -1,0 +1,1 @@
+curl -X GET -H "systemtoken: weathersystem" "localhost:8080/weather/europe?name=mike"

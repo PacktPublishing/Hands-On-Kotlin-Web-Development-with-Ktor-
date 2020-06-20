@@ -1,0 +1,1 @@
+curl -X POST -d "Rainy"  "localhost:8080/weatherforecast"

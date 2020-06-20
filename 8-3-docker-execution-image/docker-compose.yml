@@ -1,0 +1,5 @@
+version: "3"
+services:
+  myktorapp:
+    build: .
+    network_mode: host

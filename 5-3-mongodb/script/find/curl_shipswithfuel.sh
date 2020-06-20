@@ -1,0 +1,1 @@
+curl "localhost:8080/ships?fuelmin=40.0"
