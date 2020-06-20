@@ -23,7 +23,7 @@ Understanding of JavaScript Software Requirements: Java, Kotlin and IntelliJ
 Hardware Requirements: Modern laptop or desktop
 
 Related Products
-Machine Learning Projects with TensorFlow 2.0 [https://www.packtpub.com/in/data/machine-learning-projects-with-tensorflow-2-0-video]
+Machine Learning Projects with TensorFlow 2.0 [Video]
 
 Ionic: Hybrid Mobile App Development
 
