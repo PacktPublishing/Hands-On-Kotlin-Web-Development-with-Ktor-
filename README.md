@@ -1,3 +1,8 @@
+## $5 Tech Unlocked 2021!
+[Buy and download this Video for only $5 on PacktPub.com](https://www.packtpub.com/product/hands-on-kotlin-web-development-with-ktor-video/9781838640767)
+-----
+*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
+
 
 # Hands-On Kotlin Web Development with Ktor
 This is the code repository for [Hands-On Kotlin Web Development with Ktor[Video] published by [Packt].It contains all the supporting project files necessary to work through the video course from start to finish.
